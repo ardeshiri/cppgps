@@ -1,0 +1,257 @@
+# depslib dependency file v1.0
+1552679389 source:/home/snake/Cods/CodeBlocks/cppgps/main.cpp
+	<iostream>
+	<thread>
+	<future>
+	"AGPSS.h"
+	"Error.h"
+	<sstream>
+	"gpscore.h"
+
+1552666788 "
+
+1552413668 source:/home/snake/Cods/CodeBlocks/cppgps/Error.cpp
+	"Error.h"
+
+1552665252 
+
+1552413668 /home/snake/Cods/CodeBlocks/cppgps/Error.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+
+1552335054 source:/home/snake/Cods/CodeBlocks/cppgps/AGPS.cpp
+	"AGPS.h"
+
+1552335977 /home/snake/Cods/CodeBlocks/cppgps/AGPS.h
+	<iostream>
+	<fcntl.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"Error.h"
+
+1552678316 source:/home/snake/Cods/CodeBlocks/cppgps/AGPSS.cpp
+	"AGPSS.h"
+
+1552678644 /home/snake/Cods/CodeBlocks/cppgps/AGPSS.h
+	<atomic>
+	<iostream>
+	<fcntl.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<mutex>
+	"Error.h"
+
+1552579202 source:/home/snake/Cods/CodeBlocks/cppgps/src/gpscore.cpp
+	"gpscore.h"
+
+1552579280 /home/snake/Cods/CodeBlocks/cppgps/include/gpscore.h
+	"AGPSS.h"
+
+1552677851 source:/home/snake/Cods/CodeBlocks/cppgps/gpscore.cpp
+	"gpscore.h"
+
+1552677852 /home/snake/Cods/CodeBlocks/cppgps/gpscore.h
+	"AGPSS.h"
+	<iostream>
+	<future>
+	<thread>
+	<string.h>
+
+1552665716 source:e:\codes\cppgps\agpss.cpp
+	"AGPSS.h"
+
+1552666044 e:\codes\cppgps\agpss.h
+	<atomic>
+	<iostream>
+	<fcntl.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<mutex>
+	"Error.h"
+
+1552401068 e:\codes\cppgps\error.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+
+1552401068 source:e:\codes\cppgps\error.cpp
+	"Error.h"
+
+1552665250 source:e:\codes\cppgps\gpscore.cpp
+	"gpscore.h"
+
+1552665252 e:\codes\cppgps\gpscore.h
+	"AGPSS.h"
+	<iostream>
+	<future>
+	<thread>
+	<string.h>
+
+1552666788 source:e:\codes\cppgps\main.cpp
+	<iostream>
+	<thread>
+	<future>
+	"AGPSS.h"
+	"Error.h"
+	<sstream>
+	"gpscore.h"
+
+1552413668 source:/home/snake/Cods/CodeBlocks/cppgps2/Error.cpp
+	"Error.h"
+
+1552413668 /home/snake/Cods/CodeBlocks/cppgps2/Error.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+
+1552753685 source:/home/snake/Cods/CodeBlocks/cppgps2/AGPSS.CPP
+	"AGPSS.H"
+
+1552728994 /home/snake/Cods/CodeBlocks/cppgps2/AGPSS.H
+	<atomic>
+	<iostream>
+	<fcntl.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<mutex>
+	"Error.h"
+
+1552753971 source:/home/snake/Cods/CodeBlocks/cppgps2/AGPSS.cpp
+	"AGPSS.h"
+
+1552768049 source:/home/snake/Cods/CodeBlocks/cppgps2/main.cpp
+	<iostream>
+	<thread>
+	<future>
+	"AGPSS.h"
+	"Error.h"
+	<sstream>
+	"gpscore.h"
+
+1552768306 source:/home/snake/Cods/CodeBlocks/cppgps2/gpscore.cpp
+	"gpscore.h"
+
+1552765085 /home/snake/Cods/CodeBlocks/cppgps2/gpscore.h
+	"AGPSS.h"
+	<iostream>
+	<future>
+	<thread>
+	<string.h>
+	<map>
+	<vector>
+	<chrono>
+	<algorithm>
+
+1552728994 /home/snake/Cods/CodeBlocks/cppgps2/AGPSS.h
+	<atomic>
+	<iostream>
+	<fcntl.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<mutex>
+	"Error.h"
+
+1552413668 source:/media/snake/GW_Outerhea/Codes/cppgps2/Error.cpp
+	"Error.h"
+
+1552413668 /media/snake/GW_Outerhea/Codes/cppgps2/Error.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+
+1552768666 source:/media/snake/GW_Outerhea/Codes/cppgps2/main.cpp
+	<iostream>
+	<thread>
+	<future>
+	"AGPSS.h"
+	"Error.h"
+	<sstream>
+	"gpscore.h"
+
+1552728994 /media/snake/GW_Outerhea/Codes/cppgps2/AGPSS.h
+	<atomic>
+	<iostream>
+	<fcntl.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<mutex>
+	"Error.h"
+
+1552579302 /media/snake/GW_Outerhea/Codes/cppgps2/include/gpscore.h
+
+1552413668 source:/home/snake/Cods/CodeBlocks/cppgps3/Error.cpp
+	"Error.h"
+
+1552413668 /home/snake/Cods/CodeBlocks/cppgps3/Error.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+
+1554136642 source:/home/snake/Cods/CodeBlocks/cppgps3/main.cpp
+	<iostream>
+	<iomanip>
+	<iterator>
+	<thread>
+	<future>
+	"AGPSS.h"
+	"Error.h"
+	"gpscore.h"
+	"gpsi.h"
+
+1554135298 /home/snake/Cods/CodeBlocks/cppgps3/AGPSS.h
+	<atomic>
+	<iostream>
+	<fcntl.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<mutex>
+	<condition_variable>
+	"Error.h"
+
+1552579302 /home/snake/Cods/CodeBlocks/cppgps3/include/gpscore.h
+
+1552811362 source:/home/snake/Cods/CodeBlocks/cppgps3/AGPSS.CPP
+	"AGPSS.h"
+
+1554135515 source:/home/snake/Cods/CodeBlocks/cppgps3/AGPSS.cpp
+	"AGPSS.h"
+
+1554136210 source:/home/snake/Cods/CodeBlocks/cppgps3/gpscore.cpp
+	"gpscore.h"
+
+1554135382 /home/snake/Cods/CodeBlocks/cppgps3/gpscore.h
+	"AGPSS.h"
+	<iostream>
+	<future>
+	<thread>
+	<string.h>
+	<map>
+	<vector>
+	<chrono>
+	<algorithm>
+	"Error.h"
+
+1554135571 source:/home/snake/Cods/CodeBlocks/cppgps3/gpsi.cpp
+	"gpsi.h"
+
+1554136642 /home/snake/Cods/CodeBlocks/cppgps3/gpsi.h
+	<iostream>
+	"gpscore.h"
+	<chrono>
+	<ctime>
+	<iomanip>
+
