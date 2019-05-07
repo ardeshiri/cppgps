@@ -255,3 +255,62 @@
 	<ctime>
 	<iomanip>
 
+1554135515 source:/home/snake/Cods/CodeBlocks/cppgps/AGPSS.cpp
+	"AGPSS.h"
+
+1554135298 /home/snake/Cods/CodeBlocks/cppgps/AGPSS.h
+	<atomic>
+	<iostream>
+	<fcntl.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<mutex>
+	<condition_variable>
+	"Error.h"
+
+1552413668 /home/snake/Cods/CodeBlocks/cppgps/Error.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+
+1552413668 source:/home/snake/Cods/CodeBlocks/cppgps/Error.cpp
+	"Error.h"
+
+1554136210 source:/home/snake/Cods/CodeBlocks/cppgps/gpscore.cpp
+	"gpscore.h"
+
+1554135382 /home/snake/Cods/CodeBlocks/cppgps/gpscore.h
+	"AGPSS.h"
+	<iostream>
+	<future>
+	<thread>
+	<string.h>
+	<map>
+	<vector>
+	<chrono>
+	<algorithm>
+	"Error.h"
+
+1554135571 source:/home/snake/Cods/CodeBlocks/cppgps/gpsi.cpp
+	"gpsi.h"
+
+1554136642 /home/snake/Cods/CodeBlocks/cppgps/gpsi.h
+	<iostream>
+	"gpscore.h"
+	<chrono>
+	<ctime>
+	<iomanip>
+
+1554136642 source:/home/snake/Cods/CodeBlocks/cppgps/main.cpp
+	<iostream>
+	<iomanip>
+	<iterator>
+	<thread>
+	<future>
+	"AGPSS.h"
+	"Error.h"
+	"gpscore.h"
+	"gpsi.h"
+
