@@ -62,7 +62,7 @@ int AGPSS::readLine()
     }
     std::unique_lock<std::mutex> ul(mtx);
     memcpy(line,tmpstr,sizeof(line));
-    newline = true;
+    newline = true;  // or newline.store(true,memory_order_seq_cst)
     ul.unlock();
     cv.notify_one();
     return strlen(line);
